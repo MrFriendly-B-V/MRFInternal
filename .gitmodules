@@ -1,0 +1,6 @@
+[submodule "Dashboard"]
+	path = dashboard
+	url = git@github.com:MrFriendly-B-V/Dashboard.git
+[submodule "CRMQuery"]
+	path = crmquery
+	url = git@github.com:MrFriendly-B-V/CRMQuery.git
