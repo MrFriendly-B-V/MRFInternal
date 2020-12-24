@@ -4,3 +4,6 @@
 [submodule "CRMQuery"]
 	path = crmquery
 	url = git@github.com:MrFriendly-B-V/CRMQuery.git
+[submodule "espogmailsync"]
+	path = espogmailsync
+	url = https://github.com/MrFriendly-B-V/EspoGmailSync.git
